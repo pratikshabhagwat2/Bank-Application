@@ -1,2 +1,5 @@
 # Bank-Application
-Bank Management System: It is a Java Project that allows users to organize all the elements that work under a bank. Users can perform various operations like Add and View Account, Deposit or Withdraw Money and can Check their Account Balance
+Bank Management System:
+  Description: Developed a Java-based banking application using Hibernate for seamless data management. The application supports essential banking operations, such as account creation, fund transfers, and balance                   inquiries. Implemented a modular design for code clarity and used Hibernate for efficient database interactions.
+  Technologies/Tools: Java, OOPS,  Hibernate, Eclipse IDE, MySQL.
+
